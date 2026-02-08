@@ -1,0 +1,8 @@
+Password Reset:
+If a user forgets their password, they should visit the internal reset portal.
+
+Laptop Overheating:
+Ensure vents are clean, avoid soft surfaces, and update drivers.
+
+WiFi Issues:
+Restart router, check adapter drivers, and reconnect network.
